@@ -1190,7 +1190,7 @@ for i,j in zip([0,2,3,4,5,6],ax.flatten()):
 
 Seems they all look same. This plot tell us, that not everyone pays their debt on time.  But for the debtors that are already late in a few monts, it looks like they're more likely to end up in default than debtors who end up paying off their debt. 
 
-# Splitting Dataset
+# Dataset Splitting
 
 
 ```python
