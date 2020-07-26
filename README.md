@@ -1557,4 +1557,4 @@ visualizer.show()
 
 Our best model is XGBoost with 82-83% accuracy and if we see to his learning curve, its a good fit.
 
-# Thank you
+# Thank you...
