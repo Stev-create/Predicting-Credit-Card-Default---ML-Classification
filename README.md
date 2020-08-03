@@ -4,7 +4,7 @@ The dataset used for this notebook is from https://archive.ics.uci.edu/ml/datase
 
 # Attribute Information:
 
-This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
+This research employed a binary variable, default payment (Yes = 1, No = 0), as the response (target) variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
 
 * X1: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit. <br>
 * X2: Gender (1 = male; 2 = female). <br>
